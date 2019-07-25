@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Built-By: aldosilva
+Build-Jdk: 11.0.3
+Class-Path: libs/helidon-webserver-bundle-0.10.2.jar libs/helidon-webser
+ ver-0.10.2.jar libs/helidon-common-reactive-0.10.2.jar libs/helidon-com
+ mon-http-0.10.2.jar libs/helidon-common-key-util-0.10.2.jar libs/helido
+ n-common-configurable-0.10.2.jar libs/opentracing-util-0.31.0.jar libs/
+ opentracing-api-0.31.0.jar libs/opentracing-noop-0.31.0.jar libs/helido
+ n-webserver-netty-0.10.2.jar libs/netty-codec-http-4.1.22.Final.jar lib
+ s/netty-codec-4.1.22.Final.jar libs/netty-handler-4.1.22.Final.jar libs
+ /netty-buffer-4.1.22.Final.jar libs/netty-common-4.1.22.Final.jar libs/
+ netty-transport-4.1.22.Final.jar libs/netty-resolver-4.1.22.Final.jar l
+ ibs/helidon-webserver-json-0.10.2.jar libs/javax.json-1.1.2.jar libs/ja
+ vax.json-api-1.1.2.jar libs/reactor-core-3.1.5.RELEASE.jar libs/reactiv
+ e-streams-1.0.2.jar libs/helidon-config-yaml-0.10.2.jar libs/helidon-co
+ nfig-0.10.2.jar libs/helidon-common-0.10.2.jar libs/snakeyaml-1.19.jar 
+ libs/javax.annotation-api-1.3.1.jar
+Main-Class: codes.recursive.helidon.se.demo.Main
+Created-By: Maven Integration for Eclipse
+
